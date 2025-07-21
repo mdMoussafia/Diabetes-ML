@@ -15,7 +15,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Technologie utilisé
+## Technologie utilisées
 - Python
 -  TensorFlow
 -  NumPy
