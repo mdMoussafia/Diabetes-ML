@@ -15,11 +15,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Structure
-```
-├── notebooks/    # regression.ipynb, classification.ipynb
-├── src/         # fonctions utilitaires
-└── data/        # diabetes.csv
-```
-
-****Développé avec Python, TensorFlow, NumPy**
+## Technologie utilisé
+- Python
+-  TensorFlow
+-  NumPy
